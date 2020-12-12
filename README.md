@@ -1,13 +1,10 @@
-# HTMLSnek
+# A Guide to HTML
 
-Literaly just a HTML version of Snake.
-Nothing fancy.
+## What is HTML?
+HTML stands for `Hyper Text Markup Language`, and is what the web is built up apon.
 
-# Usage
-> Goto https://finlayhenderson.itch.io/htmlsnek
+> For more info goto: https://wikipedia.com/wiki/HTML
 
-**OR**
-
-> Download the HTML file from the releases section.
-
+## How do I use HTML?
+We can split HTML into two basic parts, **<head>** tag and the **<body>** tag.
 © Finlay Henderson 2020
