@@ -45,7 +45,7 @@ Save and reload the file.
 I am only making this to help people understand the basics of HTML. There will so many things I don't cover or just miss out.
 
 Links and extra help can be found at:
-> https://wikipedia.com/wiki/HTML
+> https://wikipedia.com/wiki/HTML <br>
 > https://w3schools.com/html
 
 The people above will do a much better job than explaining HTML than what I can do here!
