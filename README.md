@@ -52,6 +52,7 @@ The people above will do a much better job than explaining HTML than what I can 
 
 If you want to contribute to this feel free to, just send me a DM on Discord
 > FinlayHendoMan#0323 <br>
+
 And lemme know what you can do to help!
 
 Thanks,
