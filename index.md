@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+# A Guide to HTML
 
-You can use the [editor on GitHub](https://github.com/finlayhenderson/guidetohtml/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is HTML?
+HTML stands for `Hyper Text Markup Language`, and is what the web is built up apon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> For more info goto: https://wikipedia.com/wiki/HTML
 
-### Markdown
+## How do I use HTML?
+We can split HTML into two basic parts, **head** tag and the **body** tag.
+These tags make up your basic HTML page.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We can make a really basic webiste by using this code:
 
-```markdown
-Syntax highlighted code block
+    <html>
+        <head>
+        </head>
+        <body>
+            <h1>Hello World!</h1>
+        </body>
+    </html>
 
-# Header 1
-## Header 2
-### Header 3
+Once you copy and paste or type it into a code editor or notepad, save it as ```index.html```.
+Then go to your file explorer and double click/run the file.
 
-- Bulleted
-- List
+Congratulations, you just made an HTML website!
 
-1. Numbered
-2. List
+## The More Technical Stuff
+So you want to further your website?
+Lets make it look a bit better!
 
-**Bold** and _Italic_ and `Code` text
+First of all, goto the `<head>` section and add;
 
-[Link](url) and ![Image](src)
-```
+    <title>Advanced Website</title>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Save and reload the file.
 
-### Jekyll Themes
+Next, let's add some more text to the website!
+Goto the `<body>` section and add;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/finlayhenderson/guidetohtml/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis urna felis, euismod a accumsan in.</p>
 
-### Support or Contact
+Save and reload the file.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Closing Words
+I am only making this to help people understand the basics of HTML. There will so many things I don't cover or just miss out.
+
+Links and extra help can be found at:
+> https://wikipedia.com/wiki/HTML <br>
+> https://w3schools.com/html
+
+The people above will do a much better job than explaining HTML than what I can do here!
+
+If you want to contribute to this feel free to, just send me a DM on Discord
+> FinlayHendoMan#0323 <br>
+
+And lemme know what you can do to help!
+
+Thanks,
+Finlay
+
+
+#### Copyrights
+© Finlay Henderson 2020
